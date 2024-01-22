@@ -7,9 +7,8 @@
             style="transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
             class="projectcard firstcard">
             <div class="cardimage"><img
-                src="https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd7474f8f546108cf9413d_nuecoprojectcard.png"
+                src="/blog.jpeg"
                 loading="eager" sizes="(max-width: 479px) 65vw, (max-width: 767px) 50vw, 28vw"
-                srcset="https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd7474f8f546108cf9413d_nuecoprojectcard-p-500.png 500w, https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd7474f8f546108cf9413d_nuecoprojectcard-p-800.png 800w, https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd7474f8f546108cf9413d_nuecoprojectcard.png 816w"
                 alt=""></div>
             <div class="div-block-4">
               <div class="h3 extend">The&nbsp;Nue Co</div>
