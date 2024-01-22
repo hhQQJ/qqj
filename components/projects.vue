@@ -25,7 +25,7 @@
           </div>
         </a><a href="/details/2" class="cardlink hide w-inline-block">
           <div data-w-id="5146be6f-3a1a-c3bd-5a0f-98294d86049f"
-            style="opacity: 1; transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+            style="backgroundImage: url('/blog.jpeg');backgroundSize: 100% 100%;opacity: 1; transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
             class="projectcard americanacard hp">
             <div class="cardimage"><img
                 src="https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd3a6e7e727b8147ca47a1_AmericanaProjectCArd.jpg"
