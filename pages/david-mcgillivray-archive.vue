@@ -1,7 +1,7 @@
 <template>
     <div class="box">
         <div class="banner">
-            Archive
+        
         </div>
         <div class="w-dyn-list">
             <div class="item">

@@ -1,15 +1,14 @@
 <template>
   <div class="box">
     <div class="herosection">
-      <div style="opacity: 1;" class="h2 herotype main">The Design
-        Practice of David McGillivray</div>
+      <div style="opacity: 1;" class="h2 herotype main">Projects</div>
     </div>
     <Projects/>
     <div class="aboutcontentcontainer">
       <div class="aboutcolumns">
         <div class="left">
           <p>1</p>
-          <p>Who I am</p>
+          <p>关于我</p>
         </div>
         <div class="right">
           I’m David McGillivray, and Studio DMCG Inc is my design practice. I’m a Creative Director and Designer based in

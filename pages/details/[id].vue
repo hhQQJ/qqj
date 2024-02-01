@@ -49,7 +49,7 @@ onMounted(() => {
 })
 const dataList = ref(
     {
-        imageSrc1: 'https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62ffe6a3eda62b1f8ebdb227_usualheroback.jpg',
+        imageSrc1: '/page-1.png',
         textContent: 'A large glass of wine in a single serve bottle, made in small, sustainably farmed batches with no additives.',
         splitContent: {
             left: ['Credits', 'Additional Design by Ananya Arora', 'Photography by Thomas Albdorf', 'Industrial Design Naman Nanda', 'Glass Design by Karim Rashid'],

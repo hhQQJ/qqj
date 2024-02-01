@@ -4,10 +4,10 @@
         <NuxtLink to="/">
             <div class="left">
                 <p></p>
-                <p>www.dmcg.co</p>
+                <p>qqj</p>
             </div>
         </NuxtLink>
-        <div class="center">Designing Digital Experiences & Identities</div>
+        <div class="center">The Design Portfolio of QQJ</div>
         <div style="display: flex;height: 100%;align-items: center;">
             <div v-show="isProjects" class="right" style="margin-right: 10px; cursor: pointer;" @click="showDiv">
                 <img class="rightimg1"

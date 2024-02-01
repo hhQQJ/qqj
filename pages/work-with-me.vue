@@ -1,13 +1,13 @@
 <template>
     <div class="box">
         <div class="banner">
-            Work With Me
+          Brands Driving by Design
         </div>
         <div class="aboutcontentcontainer">
       <div class="aboutcolumns">
         <div class="left">
           <p>1</p>
-          <p>Who I am</p>
+          <p>关于我</p>
         </div>
         <div class="right">
           I’m David McGillivray, and Studio DMCG Inc is my design practice. I’m a Creative Director and Designer based in

@@ -2,31 +2,31 @@
     <div class="footer">
         <div class="left">
             <p></p>
-            <p>Studio DMCG Inc © 2024</p>
+            <p>Studio TOUCH₂ Inc © 2024</p>
         </div>
         <div class="right">
             <p class="animate__animated" :class="{'animate__fadeOutUp': !redBook, 'animate__fadeInUp': redBook}" @click="clickRedBook"  >
-                小红书
+                微信
             </p>
-            <p class="animate__animated" :class="{'animate__fadeInDown': !redBook, 'animate__fadeOutDown': redBook}" @click="clickRedBook" >@小红书</p>
+            <p class="animate__animated" :class="{'animate__fadeInDown': !redBook, 'animate__fadeOutDown': redBook}" @click="clickRedBook" >QQJdesign</p>
         </div>
         <div class="right">
             <p class="animate__animated" :class="{'animate__fadeOutUp': !concat, 'animate__fadeInUp': concat}" @click="clickConact"  >
-                联系方式
+                电话
             </p>
-            <p class="animate__animated" :class="{'animate__fadeInDown': !concat, 'animate__fadeOutDown': concat}" @click="clickConact" >wx:123123</p>
+            <p class="animate__animated" :class="{'animate__fadeInDown': !concat, 'animate__fadeOutDown': concat}" @click="clickConact" >15339524779</p>
         </div>
         <div class="right">
             <p class="animate__animated" :class="{'animate__fadeOutUp': !wechat, 'animate__fadeInUp': wechat}" @click="clickWeChat"  >
-                微信
+                邮箱
             </p>
-            <p class="animate__animated" :class="{'animate__fadeInDown': !wechat, 'animate__fadeOutDown': wechat}" @click="clickWeChat" >123123</p>
+            <p class="animate__animated" :class="{'animate__fadeInDown': !wechat, 'animate__fadeOutDown': wechat}" @click="clickWeChat" >hiqqj@qq.com</p>
         </div>
         <div class="right">
             <p class="animate__animated" :class="{'animate__fadeOutUp': !phone, 'animate__fadeInUp': phone}" @click="clickPhone"  >
-                电话
+                小红书
             </p>
-            <p class="animate__animated" :class="{'animate__fadeInDown': !phone, 'animate__fadeOutDown': phone}" @click="clickPhone" >123123</p>
+            <p class="animate__animated" :class="{'animate__fadeInDown': !phone, 'animate__fadeOutDown': phone}" @click="clickPhone" >touch2</p>
         </div>
 
     </div>
@@ -58,7 +58,7 @@ const clickPhone = () =>{
         border-top: 1px solid #000;
         padding-top: 0;
         transition: transform .2s;
-        height: 300px;
+        height: 160px;
         align-items: center;
         padding: 0 60px;
         background: #f3f3f3;

@@ -4,14 +4,11 @@
       <div class="marquee_track">
         <a href="/details/1" class="cardlink w-inline-block">
           <div data-w-id="b3f45ef5-b945-2ab6-5bcd-6b6d3b1cc4df"
-            style="transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-            class="projectcard firstcard">
-            <div class="cardimage"><img
-                src="/blog.jpeg"
-                loading="eager" sizes="(max-width: 479px) 65vw, (max-width: 767px) 50vw, 28vw"
-                alt=""></div>
-            <div class="div-block-4">
-              <div class="h3 extend">The&nbsp;Nue Co</div>
+          style="backgroundImage: url('/card-3.png');backgroundSize: 100% 100%;opacity: 1; transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+            class="projectcard americanacard hp">
+            <div class="cardimage"></div>
+            <div class="div-block-5">
+              <div class="h3">Americana</div>
             </div>
             <div class="div-block-12">
               <div class="div-block-2">
@@ -25,38 +22,32 @@
           </div>
         </a><a href="/details/2" class="cardlink hide w-inline-block">
           <div data-w-id="5146be6f-3a1a-c3bd-5a0f-98294d86049f"
-            style="backgroundImage: url('/blog.jpeg');backgroundSize: 100% 100%;opacity: 1; transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+            style="backgroundImage: url('/card-2.png');backgroundSize: 100% 100%;opacity: 1; transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
             class="projectcard americanacard hp">
-            <div class="cardimage"><img
-                src="https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd3a6e7e727b8147ca47a1_AmericanaProjectCArd.jpg"
-                loading="eager" sizes="(max-width: 479px) 65vw, (max-width: 767px) 50vw, 27vw"
-                srcset="https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd3a6e7e727b8147ca47a1_AmericanaProjectCArd-p-500.jpg 500w, https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd3a6e7e727b8147ca47a1_AmericanaProjectCArd-p-800.jpg 800w, https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/62fd3a6e7e727b8147ca47a1_AmericanaProjectCArd.jpg 816w"
-                alt=""></div>
+            <div class="cardimage"></div>
             <div class="div-block-5">
-              <div class="h3">Americana</div>
+              <div class="h3">Bayes少儿编程</div>
             </div>
             <div>
               <div class="div-block-2">
                 <div class="tagblock hp">
                   <div class="tag">
-                    <div class="h4 hp">Visual Identity</div>
+                    <div class="h4 hp">Branding</div>
                   </div>
                   <div class="tag">
-                    <div class="h4 hp">Digital Product</div>
+                    <div class="h4 hp">Visual Identity</div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </a><a href="/details/3" class="cardlink hide w-inline-block">
-          <div data-w-id="2c1ed3e3-37a8-1890-10ad-fa4a0f51b388"
-            style="transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-            class="projectcard americanacard momentouscard">
-            <div class="cardimage"><img
-                src="https://assets-global.website-files.com/62fd28cdd386f6a9d130721f/655ceb7993c893f0c5c9ce8c_logo2.svg"
-                loading="eager" alt="" class="momentouscardimg"></div>
+          <div data-w-id="5146be6f-3a1a-c3bd-5a0f-98294d86049f"
+            style="backgroundImage: url('/card-4.png');backgroundSize: 100% 100%;opacity: 1; transform: translate3d(0px, 0vw, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
+            class="projectcard americanacard hp">
+            <div class="cardimage"></div>
             <div class="div-block-5">
-              <div class="h3 white">Momentous</div>
+              <div class="h3">乖乖头</div>
             </div>
             <div>
               <div class="div-block-2">
@@ -216,7 +207,7 @@
                     <div class="h4">Publication</div>
                   </div>
                 </div>
-                <div class="h4 archivelabel">2008—2022</div>
+                
               </div>
             </div>
           </div>
